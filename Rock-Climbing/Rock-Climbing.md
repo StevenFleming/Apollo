@@ -12,7 +12,8 @@ The benefits of rock climbing include
 * group activity
 * scenic trips 
 * good workout, lots of fun
-* push limits
+* push limits 
+* ##Overcome Fears
 
 # Climbing Equipment 
 ## Indoor 
