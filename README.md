@@ -7,7 +7,7 @@ Rock Climbing
 
 ## Description
 
-_{Describes in text the benifits of climbing and the Gear needed to Climb both indoors and outdoors. Includes pictures for visual references }_
+_{Describes in text the benifits of climbing and the gear needed to climb both indoors and outdoors. Includes pictures for visual references }_
 
 ## Setup/Installation Requirements
 
