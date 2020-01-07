@@ -26,5 +26,6 @@ The benefits of rock climbing include
 4. Grigri
 
 ![an image of a Climbers](https://images.squarespace-cdn.com/content/v1/5876a2575016e15c31331ed0/1523461667708-ZB6MPBUTRJ1XO5UPGQDZ/ke17ZwdGBToddI8pDm48kFWxnDtCdRm2WA9rXcwtIYR7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UcTSrQkGwCGRqSxozz07hWZrYGYYH8sg4qn8Lpf9k1pYMHPsat2_S1jaQY3SwdyaXg/first-time-climbers-RVA.jpg?format=1500w)
-                            Climbing is a wonderful way to pass the time indoors or outdoors
+                            Climbing is a wonderful way to pass the time indoors or outdoors.
+                            
                               Indoor gyms allow for more dynamic and aggressive climbs 
