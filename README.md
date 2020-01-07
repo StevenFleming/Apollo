@@ -19,11 +19,11 @@ No Known Bugs
 
 ## Support and contact details
 
-If Users Run into issues please contact me at 12flemings@gmail.com
+If Users run into issues please contact me at 12flemings@gmail.com
 
 ## Technologies Used
 
-Used .dm
+Used atom and .md
 
 ### License
 
